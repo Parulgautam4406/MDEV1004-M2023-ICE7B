@@ -56,4 +56,3 @@ declare global
 }
 
 export default Model;
-
